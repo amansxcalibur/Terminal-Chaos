@@ -15,7 +15,7 @@ If you're unable to read the contents of the parchment, you might need to activa
 
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light.<br>
-Use `git checkout <branch name>` to switch between the realms, overriding the seals. Explore the light realm and be on the lookout for collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
+Use `git checkout <branch name>` to switch between the realms, overriding the seals. Explore the **light realm** and be on the lookout for collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ### Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.<br>
 
