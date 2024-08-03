@@ -43,9 +43,9 @@ Now, in possession of both halves of the corrupted book, the time has come to un
 As the beacon of hope resurrects to its true glory, the **GodSuite** branch is born. The book represents the young boy himself. **Each commit**, a distinct chapter, encapsulating the trials, growth, and eventual transcendence.
 
 **Check through all commits** and observe the changes, you might just find the **secret code** capable of altering your fate. You can attempt to decode this code yourself or use the divine machine whose coordinates are hidden within.
+<hr>
+After finishing all the tasks, it's mandatory to make a writeup explaining how you did each part in detail.
 
-###  After finishing all the tasks, it's mandatory to make a writeup explaining how you did each part in detail.
-
-`Some Tasks might have multiple methods of solving. Any method involving the use of terminal is accepted `
+`Some Tasks might have multiple methods of solving. Any method involving the use of terminal is accepted`
 
 
