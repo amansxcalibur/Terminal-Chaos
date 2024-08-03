@@ -9,7 +9,7 @@ if system == "Linux":
     popen.wait()
 elif system == "Darwin":
     popen = subprocess.Popen(
-        [".macDist/dist/Khanrock-the-Bloodforged/Khanrock-the-Bloodforged"]
+        [".macDist/dist/Kharnok the BloodForged/Kharnok the BloodForged"]
     )
     popen.wait()
 elif system == "Windows":
