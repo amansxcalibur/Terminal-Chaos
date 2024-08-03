@@ -7,7 +7,7 @@ You can now get started with this task, by entering Arrakis-dex using the comman
 ## Part 1
 Check your surroundings using the command `ls`. A deadly sandstorm - *Vortex of Desolation*, is impending. Use the comand `cd <path of directory>` to get to safety before it catches up! <br>*(preferably somewhere where you have a roof over your head)*<br><br>
 The Eolian Caves are dark indeed. You sense a breeze coming from a hidden tunnel. Light up the room using a more powerful `ls` command. Explore the mysterious cave to find the **parchment** that will lead you to your destiny.<br>
-**Hint**: If you're confused on where to go to find something, make use of the `tree` command for guidance.
+**Hint**: If you're confused on where to go to find something, make use of the `tree` or `find` command for guidance.
 
 Get the hidden code from the parchment using the `cat` command and store it in the Handbook.
 
@@ -15,7 +15,7 @@ If you're unable to read the contents of the parchment, you might need to activa
 
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light.<br>
-Use `git checkout <branch name>` to switch between the realms, overriding the seals. Explore the realms and be on the lookout for collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
+Use `git checkout <branch name>` to switch between the realms, overriding the seals. Explore the light realm and be on the lookout for collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ### Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.<br>
 
