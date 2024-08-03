@@ -8,7 +8,9 @@ if system == "Linux":
     )
     popen.wait()
 elif system == "Darwin":
-    popen = subprocess.Popen([".macDist/dist/Khanrock-final"])
+    popen = subprocess.Popen(
+        [".macDist/dist/Khanrock-the-Bloodforged/Khanrock-the-Bloodforged"]
+    )
     popen.wait()
 elif system == "Windows":
     print("What are you doing on windows?")
