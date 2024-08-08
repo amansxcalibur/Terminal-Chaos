@@ -20,7 +20,7 @@ Use `git checkout <branch name>` to switch between the realms, overriding the se
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.<br>
 
 #### How to brew a holy spell
-1) Use `grep` to find the filenames of herbs which have **“holy"** and **"good”** inside their content.
+1) Use `grep` to find the filenames of herbs which have both **“holy"** and **"good”** inside their content.
 2) Join all found herb names together. The one which has 'oo' in it's name should be the first.
 3) Replace each letter in this combination with the letter that comes before it.
 4) Remove all vowels from the final code and voila, you have made yourself a holy spell.
